@@ -1,0 +1,9 @@
+void Guser()
+{
+    int a = 0;
+    a++;
+    int b = a;
+    b++;
+
+    a = b;
+}
