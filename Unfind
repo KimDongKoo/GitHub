@@ -1,4 +1,4 @@
-void Guser()
+void Guser::Init()
 {
     int a = 0;
     a++;
